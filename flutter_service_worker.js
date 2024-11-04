@@ -14,8 +14,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "f1a992706997de0d198b3c51d004bd4f
 "assets/assets/img/whats-app.svg": "6424ab63d29ece68ed7c882f6c81074f",
 "assets/assets/img/whatsapp-svgrepo-com.svg": "225f1db82d00b5a24b1310b9bf50d930",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "889e3deb3e6e2d7df6adf6255a37274e",
-"assets/NOTICES": "f4b546459dec6c2a0a6392bd2d3ec6c6",
+"assets/fonts/MaterialIcons-Regular.otf": "d2d4521519dca42deddc7ed73db9ff3f",
+"assets/NOTICES": "f693e202626c1768c3366f6fa84cf211",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "canvaskit/canvaskit.js": "66177750aff65a66cb07bb44b8c6422b",
@@ -31,7 +31,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "f1a992706997de0d198b3c51d004bd4f
 "favicon.ico": "70d43074620a77cf1ebbe36bf463aeca",
 "favicon.png": "e9f3d85b7c73ca7b00d1c79532bce39d",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"flutter_bootstrap.js": "304deadd7b3a61b0ddb030ede166726b",
+"flutter_bootstrap.js": "9d44b4ad5d0b8c99dfa32f0f8e0aee39",
 "icons/favicon.png": "f072e10114116871b2c5979b3dade4a2",
 "icons/Icon-192.png": "a55184c0f96b6e67399890f850c8c195",
 "icons/Icon-512.png": "3aae34d41ab6efb559e0df6af7cc5df5",
@@ -39,7 +39,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "f1a992706997de0d198b3c51d004bd4f
 "icons/Icon-maskable-512.png": "3aae34d41ab6efb559e0df6af7cc5df5",
 "index.html": "deda4b17976c80644b02be2207c4d989",
 "/": "deda4b17976c80644b02be2207c4d989",
-"main.dart.js": "153f988f1312545c126c1abc0bef4d62",
+"main.dart.js": "3e5b722aab6b149386ff19f7c6b81188",
 "manifest.json": "e9e663b467ab1b92604c6d30f9489f77",
 "version.json": "12a92ef79835b40a6093bcc932b54998"};
 // The application shell files that are downloaded before a service worker can
