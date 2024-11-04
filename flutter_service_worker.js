@@ -3,10 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "f1a992706997de0d198b3c51d004bd4f",
-"assets/AssetManifest.bin.json": "a65f21ede067dd8f38ea26e673ed81b5",
-"assets/AssetManifest.json": "bd454926e6636f5779cf0d57c5ae7fa2",
+const RESOURCES = {"assets/AssetManifest.bin": "6b36e6f8c9d8dd11ef4b4a006731c3bf",
+"assets/AssetManifest.bin.json": "514d32160db888ded959904aecd3bf76",
+"assets/AssetManifest.json": "a9f8347eb2a8897d8b8d862a1c925506",
 "assets/assets/img/facebook.svg": "9be6010b4f608525131a2cb7fba53b13",
+"assets/assets/img/Group%25201000001576.png": "4462adc4a6fd3959f6bcf926be770031",
 "assets/assets/img/icons8-github.svg": "4d56b3683c48ed7c70e76b81fb262a4a",
 "assets/assets/img/instagram.svg": "ab4374becfcbcc40e1ed714c2066a882",
 "assets/assets/img/linkedin.svg": "262d294800f896ff16928fd020eeb7c4",
@@ -31,7 +32,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "f1a992706997de0d198b3c51d004bd4f
 "favicon.ico": "70d43074620a77cf1ebbe36bf463aeca",
 "favicon.png": "e9f3d85b7c73ca7b00d1c79532bce39d",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"flutter_bootstrap.js": "f4d99549dcd53ded64b3220b259b66b4",
+"flutter_bootstrap.js": "6bf34230251d92f958c1b599ad65ccad",
 "icons/favicon.png": "f072e10114116871b2c5979b3dade4a2",
 "icons/Icon-192.png": "a55184c0f96b6e67399890f850c8c195",
 "icons/Icon-512.png": "3aae34d41ab6efb559e0df6af7cc5df5",
@@ -39,7 +40,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "f1a992706997de0d198b3c51d004bd4f
 "icons/Icon-maskable-512.png": "3aae34d41ab6efb559e0df6af7cc5df5",
 "index.html": "deda4b17976c80644b02be2207c4d989",
 "/": "deda4b17976c80644b02be2207c4d989",
-"main.dart.js": "58054e8059aa3c207e60799067cc8ccd",
+"main.dart.js": "bf2950ffa3d773c2d1c1d02d086115ca",
 "manifest.json": "e9e663b467ab1b92604c6d30f9489f77",
 "version.json": "12a92ef79835b40a6093bcc932b54998"};
 // The application shell files that are downloaded before a service worker can
